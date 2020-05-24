@@ -1,4 +1,4 @@
-# build-my-own-x
+# build-your-own-x
 Learning by implementing~
 
 ## Tools
