@@ -2,7 +2,7 @@
 Learning by implementing~
 
 ## Tools
-1. [Implement my own requirejs: mo-requirejs](https://github.com/uniquemo/mo-requirejs)
+1. [Implement my own requirejs: simple-requirejs](https://github.com/uniquemo/simple-requirejs)
 
 ## JS + CSS practices
 1. [custom-progress-bar](https://github.com/uniquemo/practices/tree/master/001_custom-progress-bar)
