@@ -29,3 +29,6 @@ Learning by implementing~
 
 ## React Hooks
 - [crooks](https://github.com/chrisjpatty/crooks)
+- [react-recipes](https://github.com/craig1123/react-recipes)
+- [hooks](https://github.com/alibaba/hooks)
+- [captain-hook](https://github.com/stevenpersia/captain-hook)
