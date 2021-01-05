@@ -26,6 +26,7 @@ Learning by implementing~
 - redux
 - redux-saga
 - webpack
+- 上传功能
 
 ## React Hooks
 - [crooks](https://github.com/chrisjpatty/crooks)
